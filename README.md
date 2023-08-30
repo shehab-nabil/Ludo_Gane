@@ -16,3 +16,9 @@ Welcome to the Ludo Game repository! This project is a classic implementation of
 
 < Enjoy playing Ludo and have a great gaming experience! >
 
+
+
+|---------------------------------------------|
+|---------------------------------------------|
+|<img src="Assets\Ludo.jpg" width="400">
+
